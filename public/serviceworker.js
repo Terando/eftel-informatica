@@ -1,4 +1,4 @@
-const CACHE_NAME = "learnflow-cache-v1";
+const CACHE_NAME = "eftelinfo-cache-v1";
 const OFFLINE_URL = "/offline";
 
 self.addEventListener("install", event => {
